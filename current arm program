@@ -132,7 +132,6 @@
  function calculateInverseKinematics(y,z) {
 @@ -204,15 +213,18 @@ function calculateInverseKinematics(y,z) {
    }
-   */
    // Get first angle
 -  var hypotenuse = Math.sqrt(square(y)+square(z))
 -  var a = Math.atan(z/y);
