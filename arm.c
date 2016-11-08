@@ -15,6 +15,7 @@ y = x;
 x = temp;
 
 printf("%d\n", x);
+printf("%d\n", y);
 
 return 0;
 }
