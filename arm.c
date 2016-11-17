@@ -17,5 +17,8 @@ x = temp;
 printf("%d\n", x);
 printf("%d\n", y);
 
+//this is a test comment
+printf("this is it");
+
 return 0;
 }
